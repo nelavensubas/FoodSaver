@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodSaver</string>
+    <string name="camera_button">Camera Button</string>
+    <string name="hello">Hello!</string>
+    <string name="your_ingredients">Your Ingredients:</string>
+    <string name="title">Title</string>
+</resources>
