@@ -8,4 +8,4 @@ Android Studio
 Java
 Spoonacular API
 Retrofit
-The computer vision model was trained via Firebase, AutoML Vision and TensorFlow Lite.
+The computer vision model was trained via Firebase, AutoML Vision, ML Kit, and TensorFlow Lite.
